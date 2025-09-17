@@ -21,3 +21,23 @@
     如果是小米品牌的电脑可以通过小米平台查询电脑是否可以通过小米互联连接小米平板，这个是小米生态的一部分。
 
 ---
+
+#### 更新
+
+    如果你能登录Windows app并进行投屏的话是很好的，我一直登录，最后成功时报错
+
+    信息如下
+
+    Correlation Id: b63a7e01-4452-490b-a2bf-064b9f8b0000
+
+    Timestamp: 2025-09-17T16:09:28.000Z
+
+    DPTI: a5002ee3febc880a
+
+    Message: The operation attempted is invalid.
+
+    Tag: 5ssai
+
+    Code: 1164926648
+
+不知道如何解决，遂放弃。
